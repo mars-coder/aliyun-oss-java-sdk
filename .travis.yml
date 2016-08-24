@@ -1,0 +1,12 @@
+language: java
+java:
+- openjdk6
+- openjdk7
+- openjdk8
+- sunjdk6
+- oraclejdk7
+- oraclejdk8
+compile:
+- mvn clean package -DskipTests
+after_success:
+- echo "CI Done!"
