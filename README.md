@@ -1,4 +1,5 @@
 # OSS SDK for Java Developers
+[![Coverage Status](https://coveralls.io/repos/github/aliyun/aliyun-oss-java-sdk/badge.svg?branch=master)](https://coveralls.io/github/aliyun/aliyun-oss-java-sdk?branch=master)
 
 ## Requirements
 
